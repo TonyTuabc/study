@@ -1,4 +1,4 @@
-#First add, then commit, finally push
+#If not first time and changed: First add, then commit, finally push
 git add readme.txt
 git commit -m readme.txt
 git push origin master
